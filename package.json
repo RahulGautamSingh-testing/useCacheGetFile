@@ -3,6 +3,6 @@
   "description": "Automated dependency updates. Flexible so you don't need to be.",
   "version": "0.0.0-semantic-release",
   "dependencies": {
-    "xmldoc": "1.2.0"
+    "xmldoc": "1.0.0"
   }
 }
